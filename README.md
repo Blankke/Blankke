@@ -10,9 +10,14 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=好似那不胜酒力的春天。;无法预谋，所幸刚刚好。;我想要要一个冗长的只顾花开的暮春;哪怕摇摇晃晃+而我依旧往复痴迷;抬头看不见清月+低头看不见树影&center=true&width=1000&height=50&duration=8000&pause=1000)
 
+*****
+
 I am learning Computer Science recently. Don't have much projects yet, but I am willing to share what I have learned. 
+
 Feel free to reach out to me if you have any questions or just want to say hi!
+
 Thanks if you could give me a star ⭐️ on my repositories!
+
 [🌐 Visit my website](https://blankke.github.io/) | 📧 Email: 1174557570@qq.com
 
 ---
