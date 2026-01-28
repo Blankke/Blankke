@@ -1,7 +1,7 @@
 ## How are you ? 👋
 
 <p align="center">
-  <img src="rukia.png" alt="rukia" width="50%">
+  <img src="rukia.png" alt="rukia" width="30%">
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=月亮投身杯底,+我不推辞,+也不饮尽,;我无法祈求晚风恰好拂过走在路口的我，;不要烈日明湛;你要那装着画的杯;我猜是酒意开了天门&center=true&width=1000&height=50&duration=8000&pause=1000)
