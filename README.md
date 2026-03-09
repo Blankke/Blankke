@@ -16,10 +16,36 @@ Thanks if you could give me a star ⭐️ on my repositories!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Blankke/Blankke/output/github-contribution-grid-snake.svg">
 </picture>
 
-| [![Blankke's GitHub stats](https://github-vercel-deployment-sigma.vercel.app/api?username=Blankke&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-vercel-deployment-sigma.vercel.app/api/top-langs/?username=Blankke&layout=compact&theme=vue&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats) |
-| ---------------- | ---------------- |
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api?username=Blankke&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_border=true&v=2">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-vercel-deployment-sigma.vercel.app/api?username=Blankke&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_border=true&v=2">
+          <img alt="Blankke's GitHub stats" src="https://github-vercel-deployment-sigma.vercel.app/api?username=Blankke&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_border=true&v=2">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/top-langs/?username=Blankke&layout=compact&theme=vue-dark&hide_border=true&v=2">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/top-langs/?username=Blankke&layout=compact&theme=vue&hide_border=true&v=2">
+          <img alt="Top languages" src="https://github-vercel-deployment-sigma.vercel.app/api/top-langs/?username=Blankke&layout=compact&theme=vue&hide_border=true&v=2">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Wakatime Week Stats](https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days&v=2)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue-dark&layout=compact&hide_border=true&range=last_7_days&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days&v=2">
+    <img alt="Wakatime Week Stats" src="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days&v=2">
+  </picture>
+</a>
 
 *****
 <p align="center">
