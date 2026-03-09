@@ -16,10 +16,10 @@ Thanks if you could give me a star ⭐️ on my repositories!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Blankke/Blankke/output/github-contribution-grid-snake.svg">
 </picture>
 
-| [![Blankke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blankke&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blankke&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Blankke's GitHub stats](https://github-vercel-deployment-sigma.vercel.app/api?username=Blankke&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-vercel-deployment-sigma.vercel.app/api/top-langs/?username=Blankke&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
 
-[![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Week Stats](https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 *****
 <p align="center">
