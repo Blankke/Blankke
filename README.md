@@ -47,6 +47,8 @@ Thanks if you could give me a star ⭐️ on my repositories!
   </picture>
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/d1ee1c25-9002-498b-84b2-4d3cc2b40c64.svg)](https://wakatime.com/@d1ee1c25-9002-498b-84b2-4d3cc2b40c64)
+
 *****
 <p align="center">
   <img src="rukia.png" alt="rukia" width="50%">
