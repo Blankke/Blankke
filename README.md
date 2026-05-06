@@ -41,9 +41,9 @@ Thanks if you could give me a star ⭐️ on my repositories!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue-dark&layout=compact&hide_border=true&range=last_7_days&v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days&v=2">
-    <img alt="Wakatime Week Stats" src="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days&v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue-dark&layout=compact&hide_border=true&range=last_30_days&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_30_days&v=2">
+    <img alt="Wakatime Week Stats" src="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_30_days&v=2">
   </picture>
 </a>
 
