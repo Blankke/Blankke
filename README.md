@@ -39,15 +39,18 @@ Thanks if you could give me a star ⭐️ on my repositories!
   </tr>
 </table>
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue-dark&layout=compact&hide_border=true&range=last_30_days&v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_30_days&v=2">
-    <img alt="Wakatime Week Stats" src="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_30_days&v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue-dark&layout=compact&hide_border=true&range=last_7_days&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days&v=2">
+    <img alt="Wakatime Week Stats" src="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue&layout=compact&hide_border=true&range=last_7_days&v=2">
   </picture>
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/d1ee1c25-9002-498b-84b2-4d3cc2b40c64.svg)](https://wakatime.com/@d1ee1c25-9002-498b-84b2-4d3cc2b40c64)
+
+![icons](https://skillicons.dev/icons?i=audition,apple,bash,cmake,cloudflare,c,cpp,cs,debian,git,github,gmail,instagram,latex,linux,md,mysql,ocaml,obsidian,premiere,py,pytorch,rust,tensorflow,ubuntu,unity,vim,vscode,visualstudio,windows)
 
 *****
 <p align="center">
@@ -61,3 +64,4 @@ Thanks if you could give me a star ⭐️ on my repositories!
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=好似那不胜酒力的春天。;无法预谋，所幸刚刚好。;我想要要一个冗长的只顾花开的暮春;哪怕摇摇晃晃+而我依旧往复痴迷;抬头看不见清月+低头看不见树影&center=true&width=1000&height=50&duration=8000&pause=1000)
 
 *****
+
