@@ -49,9 +49,11 @@ Thanks if you could give me a star ⭐️ on my repositories!
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/d1ee1c25-9002-498b-84b2-4d3cc2b40c64.svg)](https://wakatime.com/@d1ee1c25-9002-498b-84b2-4d3cc2b40c64)
-
-![icons](https://skillicons.dev/icons?i=audition,apple,bash,cmake,cloudflare,c,cpp,cs,debian,git,github,gmail,instagram,latex,linux,md,mysql,ocaml,obsidian,premiere,py,pytorch,rust,tensorflow,ubuntu,unity,vim,vscode,visualstudio,windows)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=light">
+  <img alt="icons" src="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows">
+</picture>
 *****
 <p align="center">
   <img src="rukia.png" alt="rukia" width="50%">
@@ -64,4 +66,3 @@ Thanks if you could give me a star ⭐️ on my repositories!
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=好似那不胜酒力的春天。;无法预谋，所幸刚刚好。;我想要要一个冗长的只顾花开的暮春;哪怕摇摇晃晃+而我依旧往复痴迷;抬头看不见清月+低头看不见树影&center=true&width=1000&height=50&duration=8000&pause=1000)
 
 *****
-
