@@ -6,7 +6,7 @@ Feel free to reach out to me if you have any questions or just want to say hi!
 
 Thanks if you could give me a star ⭐️ on my repositories!
 
-[🌐 Visit my website](https://blankke.github.io/) | 📧 Email: 1174557570@qq.com
+[🌐 Visit my website](https://blankke.github.io/) | [❄️ Wanna see my Blog?](https://my-blog-gamma-puce.vercel.app/) | [📧 Email](mailto:1174557570@qq.com)
 
 ---
 
@@ -50,9 +50,9 @@ Thanks if you could give me a star ⭐️ on my repositories!
 
 [![wakatime](https://wakatime.com/badge/user/d1ee1c25-9002-498b-84b2-4d3cc2b40c64.svg)](https://wakatime.com/@d1ee1c25-9002-498b-84b2-4d3cc2b40c64)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=light">
-  <img alt="icons" src="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai%2C%2Canaconda%2Capple%2Cau%2Cbash%2Cblender%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cblender%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=light">
+  <img alt="icons" src="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cblender%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows">
 </picture>
 *****
 <p align="center">
