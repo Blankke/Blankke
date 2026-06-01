@@ -1,4 +1,4 @@
-## How are you ? 👋
+## How are you ? 👋 I'm Blankke
 
 I am learning Computer Science recently. Don't have much projects yet, but I am willing to share what I have learned. 
 
@@ -8,7 +8,8 @@ Thanks if you could give me a star ⭐️ on my repositories!
 
 [🌐 Visit my website](https://blankke.github.io/) | [❄️ Wanna see my Blog?](https://my-blog-gamma-puce.vercel.app/) | [📧 Email](mailto:1174557570@qq.com)
 
----
+# 📊 GitHub Stats
+Here is a quick overview of my recent activities on GitHub.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blankke/Blankke/output/github-contribution-grid-snake-dark.svg">
@@ -39,7 +40,8 @@ Thanks if you could give me a star ⭐️ on my repositories!
   </tr>
 </table>
 
-
+# 📈 Wakatime Stats
+I also use Wakatime to track my coding activity. Here are my stats for the last 7 days:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-vercel-deployment-sigma.vercel.app/api/wakatime?username=blankke&theme=vue-dark&layout=compact&hide_border=true&range=last_7_days&v=2">
@@ -49,13 +51,16 @@ Thanks if you could give me a star ⭐️ on my repositories!
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/d1ee1c25-9002-498b-84b2-4d3cc2b40c64.svg)](https://wakatime.com/@d1ee1c25-9002-498b-84b2-4d3cc2b40c64)
+
+# 🔧 Tools
+I love the community of open source and try to contribute. Some icons about the tools that I am using, and also recommend to you: 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai%2C%2Canaconda%2Capple%2Cau%2Cbash%2Cblender%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cblender%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=light">
   <img alt="icons" src="https://skillicons.dev/icons?i=ai%2Canaconda%2Capple%2Cau%2Cbash%2Cblender%2Cc%2Ccloudflare%2Ccmake%2Ccpp%2Ccs%2Cdebian%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgmail%2Cinstagram%2Clatex%2Clinux%2Cmd%2Cmysql%2Cobsidian%2Cocaml%2Copencv%2Cpowershell%2Cpr%2Cps%2Cpy%2Cpytorch%2Crust%2Ctensorflow%2Ctwitter%2Cubuntu%2Cunity%2Cvercel%2Cvim%2Cvisualstudio%2Cvite%2Cvscode%2Cwindows&theme=light">
 </picture>
 
-*****
 <p align="center">
   <img src="rukia.png" alt="rukia" width="50%">
 </p>
